@@ -1,17 +1,18 @@
 /* 
 MIT License
  applies to:
-        - three.js by 2010-2024 three.js authors and Face Mesh Example by www.bannaflak.com - https://github.com/mrdoob/three.js/
-        - webpack by JS Foundation - https://github.com/webpack/
-        - jema.js by 2023 Tobias Buschor - https://github.com/nuxodin/jema.js
-        - JSON schema by 2022 JSON Schema Specification Authors - https://github.com/json-schema-org/
-        - lil-gui by 2019 George Michael Brower - https://github.com/georgealways/lil-gui
+        - next.js by Vercel https://nextjs.org/
+        - shadcn/ui by shadcn https://ui.shadcn.com/
+        - tailwindcss by Tailwind Labs https://tailwindcss.com/
+        - iron-session Vincent Voyer https://www.npmjs.com/package/iron-session/v/8.0.0-beta.5
+        - socket.io by Guillermo Rauch https://socket.io/
+        - prisma https://www.prisma.io/
 
-FaceEx - A application for morphing a facemesh to express Action Units and based on them Emotions
-Author: Florian Lessig
-Name 2
-Name 3
-Name 4 
+QuizIT - A application for cooperative learning quizes
+Author: Lennert Pfundtner
+Florian Lessig
+Heiner Witte
+Franziska Alessandra Meier
 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
