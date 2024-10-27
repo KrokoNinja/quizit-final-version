@@ -41,9 +41,3 @@ Run the development server
 ```bash
 npm run dev
 ```
-
-How to run the Websocket
-```bash
-cd websocket_server
-nodemon socket.js
-```
